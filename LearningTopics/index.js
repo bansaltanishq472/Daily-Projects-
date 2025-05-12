@@ -187,4 +187,8 @@ function printMaleFirstNames(data) {
   // Charlie
   // David
   // Frank
-  // Henry
+// Henry
+  
+
+
+//JavaScript runs in a single execution thread, which means it can only perform one operation at a time. This is different from multi-threaded languages, which can run multiple operations simultaneously. The single-threaded model simplifies the development process, avoiding complex issues related to concurrent programming, such as race conditions and deadlocks. However, it also means that any long-running operation can block the execution of subsequent code.
